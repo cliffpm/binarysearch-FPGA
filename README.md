@@ -3,6 +3,9 @@ This is an implementation of the Binary Search Algorithm coded in System Verilog
 
 # ASMD of Binary Search Algorithm:
 ![BS_ASMD](binarySearchASMD.jpg)
+<img src="binarySearchASMD.jpg" alt="Sample Image" width="400" height="300">
+
+
 # Block Diagram of Binary Search Algorithm (Controller and Datapath Connections):
 ![BS_BDIAGRAM](BinarySearchBlockDiagram.jpg)
 
